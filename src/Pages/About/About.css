@@ -1,0 +1,21 @@
+.about h1::after{
+    position: absolute;
+    content: "";
+    margin-top: 25px;
+    margin-left: 10px;
+    display: inline-block;
+    width: 70px;
+    height: 2px;
+    background-color: black;
+}
+
+.foot h2::after{
+    position: absolute;
+    content: "";
+    margin-top: 20px;
+    margin-left: 10px;
+    display: inline-block;
+    width: 70px;
+    height: 2px;
+    background-color: black;
+}

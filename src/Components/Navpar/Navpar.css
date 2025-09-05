@@ -1,0 +1,18 @@
+
+.navpar .cart span{
+    position: absolute;
+    top: 8px;
+    right: 20px;
+    width: 15px;
+    height: 15px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    color:white
+    
+}

@@ -1,0 +1,8 @@
+.right h1::after{position: absolute;
+    content: "";
+    margin-top: 25px;
+    margin-left: 10px;
+    display: inline-block;
+    width: 70px;
+    height: 2px;
+    background-color: black;}

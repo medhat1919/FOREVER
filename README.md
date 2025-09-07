@@ -1,8 +1,8 @@
 # React + Vite
 
-# ZARA E-commerce Project (Clone)
+# FOREVER E-commerce Project (Clone)
 
-This is a front-end e-commerce web application built with React and Vite, inspired by the ZARA online store. It provides a modern, responsive user interface for browsing and shopping for clothing items.
+This is a front-end e-commerce web application built with React and Vite, inspired by the FOREVER online store. It provides a modern, responsive user interface for browsing and shopping for clothing items.
 
 ## ✨ Features
 
